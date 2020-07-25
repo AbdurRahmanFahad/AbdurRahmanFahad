@@ -1,3 +1,3 @@
 ### Hello Noobgrammers! 
 
-![GNU](/images/why.jpg)
+![GNU](/Images/why.jpg)
