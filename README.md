@@ -12,10 +12,10 @@
 [<img align="left" alt="Js" width="34px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" />][website]
 [<img align="left" alt="node" width="35px" src="https://nodejs.org/static/images/logo-hexagon-card.png" />][website]
 [<img align="left" alt="mongo" width="90px" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" />][website]
-[<img align="left" alt="Git" width="50px" height="22px" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" />][website]
 [<img align="left" alt="React" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />][website]
 [<img align="left" alt="Octave" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/1024px-Gnu-octave-logo.svg.png" />][website]
 [<img align="left" alt="8086" width="39px" src="https://lh3.googleusercontent.com/orH9MATBX0Crk67nFiJjeeSXIalqdWM2RnnBnYd9d_8sDA_u5GN3uQtIAhxRwUpWDQ4" />][website]
+[<img align="left" alt="Git" width="50px" height="22px" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" />][website]
 
 <br />
 <br />
