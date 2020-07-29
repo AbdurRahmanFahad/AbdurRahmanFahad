@@ -18,13 +18,15 @@
 [<img align="left" alt="CSS" width="31px" src="https://www.pngitem.com/pimgs/m/198-1985012_transparent-css3-logo-png-css-logo-transparent-background.png" />][website]
 <br />
 <br />
+
 ## Love to play with continued
 <br />
 
-[<img align="left" alt="vs" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"/>][website]
+[<img align="left"alt="vs"width="28px"src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />][website]
 
 <br />
 <br />
+
 ## Language Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahad69&hide=css,html&theme=algolia)](https://github.com/fahad69/github-readme-stats)
 
