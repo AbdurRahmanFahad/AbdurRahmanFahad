@@ -10,8 +10,9 @@
 [<img align="left" alt="Java" width="68px" src="https://techbum.io/content/images/2020/05/java-logo-png-png-collections-at-sccprecat-java-logo-transparent-768_472.png" />][website]
 [<img align="left" alt="Python" width="31px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />][website]
 [<img align="left" alt="Js" width="34px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" />][website]
-[<img align="left" alt="node" width="35px" src="https://nodejs.org/static/images/logo-hexagon-card.png" />][website]
+[<img align="left" alt="node" width="35px" src="https://nodejs.org/static/images/logo-hexagon-card.png" />][website] 
 <br />
+
 [<img align="left" alt="mongo" width="90px" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" />][website]
 [<img align="left" alt="Git" width="50px" height="22px" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" />][website]
 [<img align="left" alt="React" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />][website]
