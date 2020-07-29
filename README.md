@@ -21,12 +21,10 @@
 
 ## Love to play with continued
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahad69&layout=compact)](https://github.com/fahad69/github-readme-stats)
-
+[<img align="left" alt="Vs" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />]
 <br />
 <br />
 ## Language Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahad69&hide=css,html&theme=algolia)](https://github.com/fahad69/github-readme-stats)
 
 ## Github Stats
 
