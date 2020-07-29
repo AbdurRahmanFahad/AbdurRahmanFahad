@@ -14,12 +14,9 @@
 [<img align="left" alt="Git" width="62px" height="26px" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" />][website]
 [<img align="left" alt="React" width="53px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />][website]
 [<img align="left" alt="Octave" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/1024px-Gnu-octave-logo.svg.png" />][website]
-[<img align="left" alt="html" width="31px" src="https://c7.uihere.com/files/5/56/989/website-development-html5-logo-clip-art-world-wide-web-consortium-world-wide-web.jpg" />][website]
-[<img align="left" alt="CSS" width="31px" src="https://www.pngitem.com/pimgs/m/198-1985012_transparent-css3-logo-png-css-logo-transparent-background.png" />][website]
 <br />
 <br />
 
-[<img align="left" alt="CSS" width="31px" src="https://www.pngitem.com/pimgs/m/198-1985012_transparent-css3-logo-png-css-logo-transparent-background.png" />][website]
 
 <br />
 <br />
