@@ -19,8 +19,10 @@
 
 ## Love to play with continued
 [<img align="left" alt="Vs" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />][website]
-[<img align="left" alt="AS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1200px-Android_Studio_icon.svg.png
-" />][website]
+[<img align="left" alt="AS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1200px-Android_Studio_icon.svg.png" />][website]
+[<img align="left" alt="Clion" width="30px" src="https://cdn.worldvectorlogo.com/logos/clion-1.svg" />][website]
+[<img align="left" alt="Intelij" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" />][website]
+[<img align="left" alt="Codeblocks" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Codeblocks_logo.png" />][website]
 
 
 <br />
