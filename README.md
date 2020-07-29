@@ -21,8 +21,8 @@
 
 ## Love to play with continued
 <br />
+[<img align="left" alt="Vs" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />]
 
-[<img align="left"alt="vs"width="28px"src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />][website]
 
 <br />
 <br />
