@@ -39,7 +39,7 @@
 <br />
 
 ## Language Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahad69&hide=css,html&theme=algolia)](https://github.com/fahad69/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahad69&hide=css&theme=algolia)](https://github.com/fahad69/github-readme-stats)
 
 ## Github Stats
 
