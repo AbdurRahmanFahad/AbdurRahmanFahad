@@ -18,7 +18,6 @@
 [<img align="left" alt="mongo" width="90px" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" />][website]
 
 <br />
-<br />
 
 ## Love to play with continued
 
@@ -35,7 +34,6 @@
 [<img align="left" alt="Shell" width="31px" src="https://nrg.wustl.edu/wp-content/uploads/icon-terminal.png" />][website]
 
 
-<br />
 <br />
 
 ## Stats
