@@ -37,6 +37,7 @@
 ## Find me on
 
 [<img align="left" alt="CF" width="45px" title="Codeforces" src="https://image.winudf.com/v2/image/Y29tLlNvZnRUZWNocy5Db2RlRm9yY2VzX2ljb25fMF9jOTA3NjNhMA/icon.png?w=170&fakeurl=1"/>][website2]
+[<img align="left" alt="CF" width="40px" title="HackerRank" src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/lqlkg85sw4sgmp2xvznh"/>][website2]
 
 <br />
 
@@ -47,3 +48,5 @@
 
 [website]: #
 [website2]: "https://codeforces.com/profile/1605069"
+[website3]: "https://www.hackerrank.com/fahad69?hr_r=1"
+
