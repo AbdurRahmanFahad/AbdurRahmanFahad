@@ -32,6 +32,11 @@
 [<img align="left" alt="Compass" width="34px" title="MongoDB Compass" src="https://img.stackshare.io/service/8696/J3fzYcnz_400x400.png" />][website]
 [<img align="left" alt="Shell" width="31px" title="Bash" src="https://nrg.wustl.edu/wp-content/uploads/icon-terminal.png" />][website]
 
+<br />
+
+## Find me on
+
+[<img align="left" alt="CF" width="45px" title="Codeforces" src="https://image.winudf.com/v2/image/Y29tLlNvZnRUZWNocy5Db2RlRm9yY2VzX2ljb25fMF9jOTA3NjNhMA/icon.png?w=170&fakeurl=1"/>][website2]
 
 <br />
 
@@ -41,3 +46,4 @@
 
 
 [website]: #
+[website2]: "https://codeforces.com/profile/1605069"
