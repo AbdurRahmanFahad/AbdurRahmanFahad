@@ -1,7 +1,6 @@
 ## Hello Noobgrammers! 
 
-![GNU](https://github.com/fahad69/fahad69/blob/master/Images/why.jpg)
-![hack](https://github.com/fahad69/fahad69/blob/master/Images/matrix.gif)
+![hack](https://github.com/fahad69/fahad69/blob/master/Images/123.gif)
 
 
 ## Love to play with
@@ -59,6 +58,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahad69&hide=html,css&theme=algolia)](https://github.com/fahad69/github-readme-stats)
 ![fahad69's github stats](https://github-readme-stats.vercel.app/api?username=fahad69&show_icons=true&theme=algolia)
 
+<br />
+
+![GNU](https://github.com/fahad69/fahad69/blob/master/Images/why.jpg)
 
 [website]: #
 [website2]: "https://codeforces.com/profile/1605069"
