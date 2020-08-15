@@ -17,6 +17,9 @@
 [<img align="left" alt="mongo" width="90px" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" />][website]
 
 <br />
+<br />
+<br />
+<br />
 
 ## Love to play with continued
 
@@ -33,6 +36,9 @@
 [<img align="left" alt="Shell" width="31px" title="Bash" src="https://nrg.wustl.edu/wp-content/uploads/icon-terminal.png" />][website]
 
 <br />
+<br />
+<br />
+<br />
 
 ## Find me on
 
@@ -41,6 +47,9 @@
 [<img align="left" alt="CF" width="94px" title="Toph" src="https://static.toph.co/assets/images/logo_120h.png?_=2a93d9440f2aa648a562ff784292da629068e415"/>][website4]
 [<img align="left" alt="CF" width="108px" title="CodeChef" src="https://www.codechef.com/sites/all/themes/abessive/cc-logo.png"/>][website5]
 
+<br />
+<br />
+<br />
 <br />
 
 ## Stats
