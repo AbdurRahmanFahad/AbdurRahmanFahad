@@ -14,8 +14,8 @@
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></code>
 <code><img height="50" title="Octave" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/1024px-Gnu-octave-logo.svg.png"></code>
 <code><img height="50" src="https://lh3.googleusercontent.com/orH9MATBX0Crk67nFiJjeeSXIalqdWM2RnnBnYd9d_8sDA_u5GN3uQtIAhxRwUpWDQ4"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg"></code>
-<code><img height="50" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"></code>
+<code><img height="48" title="8086" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg"></code>
+<code><img height="46" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"></code>
 
 <br />
 
