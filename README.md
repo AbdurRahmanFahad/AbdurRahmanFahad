@@ -17,7 +17,6 @@
 <code><img height="48" title="8086" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg"></code>
 <code><img height="46" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"></code>
 
-<br />
 
 ## Love to play with continued
 
@@ -33,7 +32,6 @@
 <code><img height="50" title="MongoDB Compass" src="https://img.stackshare.io/service/8696/J3fzYcnz_400x400.png"></code>
 <code><img height="50" title="Bash" src="https://nrg.wustl.edu/wp-content/uploads/icon-terminal.png"></code>
 
-<br />
 
 ## Find me on
 
@@ -44,8 +42,7 @@
 
 <br />
 <br />
-<br />
-<br />
+
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahad69&hide=html,css&theme=algolia)](https://github.com/fahad69/github-readme-stats)
