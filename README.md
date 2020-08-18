@@ -52,8 +52,6 @@
 <br />
 <br />
 
-![GNU](https://github.com/fahad69/fahad69/blob/master/Images/why.jpg)
-
 [website]: #
 [website2]: "https://codeforces.com/profile/1605069"
 [website3]: "https://www.hackerrank.com/fahad69?hr_r=1"
