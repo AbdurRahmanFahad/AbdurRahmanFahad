@@ -42,10 +42,6 @@
 <code><a href="https://toph.co/u/fahad_69"><img alt="CF" width="94px" title="Toph" src="https://static.toph.co/assets/images/logo_120h.png?_=2a93d9440f2aa648a562ff784292da629068e415"></a></code>
 <code><a href="https://www.codechef.com/users/fahad69"><img alt="CF" width="108px" title="CodeChef" src="https://www.codechef.com/sites/all/themes/abessive/cc-logo.png"></a></code>
 
-
-
-<br />
-
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahad69&hide=html,css&theme=algolia)](https://github.com/fahad69/github-readme-stats)
 
