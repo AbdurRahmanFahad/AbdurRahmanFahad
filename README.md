@@ -8,7 +8,6 @@
 <br />
 
 <code><img height="36" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>
-<code><img height="36" src="https://user-images.githubusercontent.com/29695545/43161921-2618b280-8f92-11e8-8738-74c0a03eadff.png"></code>
 <code><img height="36" src="https://techbum.io/content/images/2020/05/java-logo-png-png-collections-at-sccprecat-java-logo-transparent-768_472.png"></code>
 <code><img height="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png"></code>
 <code><img height="36" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png"></code>
