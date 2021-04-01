@@ -25,7 +25,7 @@
 
 <code><img height="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 <code><img height="36" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"></code>
-<code><img height="36" src=""></code>
+<code><img height="36" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"></code>
 <code><img height="36" src="https://cdn.worldvectorlogo.com/logos/clion-1.svg"></code>
 <code><img height="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png"></code>
 <code><img height="36" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></code>
