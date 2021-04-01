@@ -24,7 +24,6 @@
 <br />
 
 <code><img height="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-<code><img height="36" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"></code>
 <code><img height="36" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"></code>
 <code><img height="36" src="https://cdn.worldvectorlogo.com/logos/clion-1.svg"></code>
 <code><img height="36" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"></code>
@@ -32,6 +31,8 @@
 <code><img height="36" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Codeblocks_logo.png"></code>
 <code><img height="36" title="MongoDB Compass" src="https://img.stackshare.io/service/8696/J3fzYcnz_400x400.png"></code>
 <code><img height="36" title="Bash" src="https://nrg.wustl.edu/wp-content/uploads/icon-terminal.png"></code>
+<code><img height="36" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"></code>
+
 
 
 ## Find me on
