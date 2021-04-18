@@ -44,7 +44,7 @@
 <code><a href="https://www.codechef.com/users/fahad69"><img alt="CF" width="108px" title="CodeChef" src="https://www.codechef.com/sites/all/themes/abessive/cc-logo.png"></a></code>
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahad69&hide=html,css&theme=algolia)](https://github.com/fahad69/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahmanfahad&hide=html,css&theme=algolia)](https://github.com/abdurrahmanfahad/github-readme-stats)
 
 <br />
 <br />
