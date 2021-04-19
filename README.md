@@ -1,9 +1,9 @@
 ## Hello Noobgrammers! 
 
-<code><img align="middle" width="300" src="https://github.com/fahad69/fahad69/blob/master/Images/hello.gif"></code>
+<code><img align="middle" width="300" src="https://github.com/AbdurRahmanFahad/AbdurRahmanFahad/blob/master/Images/hello.gif"></code>
 <br/>
 
-<img align="center" src="https://github.com/fahad69/fahad69/blob/master/Images/123.gif">
+<img align="center" src="https://github.com/AbdurRahmanFahad/AbdurRahmanFahad/blob/master/Images/123.gif">
 
 ## Love to play with
 <br />
