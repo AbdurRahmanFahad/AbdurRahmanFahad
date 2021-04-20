@@ -1,5 +1,4 @@
-## Hello Noobgrammers! 
-
+## init
 <code><img align="middle" width="300" src="https://github.com/AbdurRahmanFahad/AbdurRahmanFahad/blob/master/Images/hello.gif"></code>
 <br/>
 
