@@ -35,7 +35,7 @@
 <code><img height="36" src="/icons/Codeblocks.png"></code>
 <code><img height="36" title="MongoDB Compass" src="/icons/mdbcompass.png"></code>
 <code><img height="36" title="Bash" src="/icons/terminal.png"></code>
-<code><img height="36" src="/icons/sublime-text.svg"></code>
+<code><img height="32" src="/icons/sublime-text.svg"></code>
 
 
 
@@ -54,10 +54,10 @@
 
 ### Find me on continued
 
-<code><a href="https://www.linkedin.com/in/abdur-rahman-fahad-a24091183/" target="_blank"><img height="42" src="icons/linkedin.png"></a></code>
-<code><a href="https://www.facebook.com/fahad1605069" target="_blank"><img height="42" src="icons/facebook.png"></a></code>
-<code><a href="https://www.instagram.com/__fahad_rahman__/" target="_blank"><img height="42" src="icons/instagram.png"></a></code>
-<code><a href="https://www.flickr.com/photos/153952100@N04/" target="_blank"><img height="42" src="icons/flickr.png"></a></code>
+<code><a href="https://www.linkedin.com/in/abdur-rahman-fahad-a24091183/" target="_blank"><img height="38" src="icons/linkedin.png"></a></code>
+<code><a href="https://www.facebook.com/fahad1605069" target="_blank"><img height="38" src="icons/facebook.png"></a></code>
+<code><a href="https://www.instagram.com/__fahad_rahman__/" target="_blank"><img height="38" src="icons/instagram.png"></a></code>
+<code><a href="https://www.flickr.com/photos/153952100@N04/" target="_blank"><img height="38" src="icons/flickr.png"></a></code>
 
 
 [website]: #
