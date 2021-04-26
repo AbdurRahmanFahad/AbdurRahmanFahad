@@ -15,27 +15,27 @@
 <code><img height="36" src="/icons/java.png"></code>
 <code><img height="36" src="/icons/Python.png"></code>
 <code><img height="36" src="/icons/js.png"></code>
-<code><img height="36" src="/icons/node.png"></code>
+<code><img height="26" src="/icons/node.png"></code>
 <code><img height="36" src="/icons/React.png"></code>
 <code><img height="36" title="Octave" src="/icons/octave.png"></code>
 <code><img height="36" title="8086" src="/icons/8086.png"></code>
-<code><img height="36"  src="/icons/mongodb.svg"></code>
-<code><img height="30" src="/icons/Git.png"></code>
+<code><img height="30"  src="/icons/mongodb.svg"></code>
+<code><img height="20" src="/icons/Git.png"></code>
 
 
 ## Love to play with continued
 
 <br />
 
-<code><img height="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-<code><img height="36" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"></code>
-<code><img height="36" src="https://cdn.worldvectorlogo.com/logos/clion-1.svg"></code>
-<code><img height="36" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"></code>
-<code><img height="36" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></code>
-<code><img height="36" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Codeblocks_logo.png"></code>
-<code><img height="36" title="MongoDB Compass" src="https://img.stackshare.io/service/8696/J3fzYcnz_400x400.png"></code>
-<code><img height="36" title="Bash" src="https://nrg.wustl.edu/wp-content/uploads/icon-terminal.png"></code>
-<code><img height="36" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"></code>
+<code><img height="36" src="/icons/vscode.png"></code>
+<code><img height="36" src="/icons/androidstudio.png"></code>
+<code><img height="36" src="/icons/clion-1.svg"></code>
+<code><img height="36" src="/icons/intellij.png"></code>
+<code><img height="36" src="/icons/pycharm.png"></code>
+<code><img height="36" src="/icons/Codeblocks.png"></code>
+<code><img height="36" title="MongoDB Compass" src="/icons/mdbcompass.png"></code>
+<code><img height="36" title="Bash" src="/icons/terminal.png"></code>
+<code><img height="36" src="/icons/sublime-text.svg"></code>
 
 
 
