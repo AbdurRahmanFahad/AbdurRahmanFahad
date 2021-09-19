@@ -41,7 +41,7 @@
 
 ## Find me on
 
-<code><a href="https://codeforces.com/profile/1605069"><img alt="CF" width="205px"  title="Codeforces" src="https://web.uvic.ca/~amashreg/img/codeforces.png"></a></code>
+<code><a href="https://codeforces.com/profile/1605069"><img alt="CF" width="205px"  title="Codeforces" src="icons/codeforces.png"></a></code>
 <code><a href="https://www.hackerrank.com/fahad69?hr_r=1"><img alt="CF" width="38px" title="HackerRank" src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/lqlkg85sw4sgmp2xvznh"></a></code>
 <code><a href="https://toph.co/u/fahad_69"><img alt="CF" width="94px" title="Toph" src="icons/toph.png"></a></code>
 <code><a href="https://www.codechef.com/users/fahad69"><img alt="CF" width="108px" title="CodeChef" src="https://www.codechef.com/sites/all/themes/abessive/cc-logo.png"></a></code>
