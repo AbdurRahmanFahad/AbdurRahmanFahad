@@ -14,12 +14,8 @@
 <code><img height="36" src="/icons/cpp.png"></code>
 <code><img height="36" src="/icons/java.png"></code>
 <code><img height="36" src="/icons/Python.png"></code>
-<code><img height="36" src="/icons/js.png"></code>
-<code><img height="26" src="/icons/node.png"></code>
-<code><img height="36" src="/icons/React.png"></code>
 <code><img height="36" title="Octave" src="/icons/octave.png"></code>
 <code><img height="36" title="8086" src="/icons/8086.png"></code>
-<code><img height="30"  src="/icons/mongodb.svg"></code>
 <code><img height="20" src="/icons/Git.png"></code>
 
 
@@ -33,9 +29,7 @@
 <code><img height="36" src="/icons/intellij.png"></code>
 <code><img height="36" src="/icons/pycharm.png"></code>
 <code><img height="36" src="/icons/Codeblocks.png"></code>
-<code><img height="36" title="MongoDB Compass" src="/icons/mdbcompass.png"></code>
 <code><img height="36" title="Bash" src="/icons/terminal.png"></code>
-<code><img height="32" src="/icons/sublime-text.svg"></code>
 
 
 
