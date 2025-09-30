@@ -31,7 +31,6 @@
 <code><img height="36" title="Bash" src="/icons/terminal.png"></code>
 
 
-
 ## Find me on
 
 <code><a href="https://codeforces.com/profile/1605069"><img alt="CF" width="205px"  title="Codeforces" src="icons/codeforces.png"></a></code>
@@ -39,10 +38,6 @@
 <code><a href="https://toph.co/u/fahad_69"><img alt="CF" width="94px" title="Toph" src="icons/toph.png"></a></code>
 <code><a href="https://www.codechef.com/users/fahad69"><img alt="CF" width="108px" title="CodeChef" src="https://www.codechef.com/sites/all/themes/abessive/cc-logo.png"></a></code>
 
-## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahmanfahad&hide=html,css&theme=algolia)](https://github.com/abdurrahmanfahad/github-readme-stats)
-
-<br />
 <br />
 
 ### Find me on continued
