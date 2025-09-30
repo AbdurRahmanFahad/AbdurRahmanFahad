@@ -15,7 +15,6 @@
 <code><img height="36" src="/icons/java.png"></code>
 <code><img height="36" src="/icons/Python.png"></code>
 <code><img height="36" title="8086" src="/icons/8086.png"></code>
-<code><img height="20" src="/icons/Git.png"></code>
 <code><img height="38" src="/icons/pytorch3.png"></code>
 <code><img height="36" src="/icons/vscode.png"></code>
 <code><img height="36" src="/icons/androidstudio.png"></code>
