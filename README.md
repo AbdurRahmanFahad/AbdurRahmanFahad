@@ -5,7 +5,6 @@
 ## To-do
 <br/>
 
-
 <img align="center" height="200" src="https://github.com/AbdurRahmanFahad/AbdurRahmanFahad/blob/master/Images/123.gif">
 
 ## Love to play with
@@ -17,11 +16,12 @@
 <code><img height="36" title="8086" src="/icons/8086.png"></code>
 <code><img height="38" src="/icons/pytorch3.png"></code>
 <code><img height="36" src="/icons/vscode.png"></code>
+<code><img height="36" title="Bash" src="/icons/terminal.png"></code>
 <code><img height="36" src="/icons/androidstudio.png"></code>
 <code><img height="36" src="/icons/clion-1.svg"></code>
 <code><img height="36" src="/icons/intellij.png"></code>
 <code><img height="36" src="/icons/pycharm.png"></code>
-<code><img height="36" title="Bash" src="/icons/terminal.png"></code>
+
 
 
 ## Find me on
